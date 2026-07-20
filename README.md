@@ -32,5 +32,5 @@
 ## 📂 Featured Projects
 
 - Supply and Logistics Management System
-- English-Turkish Vocabulary Quiz Game
+- ASCII Shape Editor
 - University Projects
