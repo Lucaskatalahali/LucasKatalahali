@@ -32,5 +32,6 @@
 ## 📂 Featured Projects
 
 - Supply and Logistics Management System
+- City Simulation in C
 - ASCII Shape Editor
-- University Projects
+- Hexagonal Priority Queue Simulator
