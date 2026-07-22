@@ -40,7 +40,7 @@ Aspiring Backend Engineer currently focused on **C#, ASP.NET Core, software arch
 
 ## 🎓 Academic Portfolio
 Explore all my academic projects developed throughout my Computer Engineering degree at Sakarya University, including source code, documentation, and project reports.
-👉 Visit my **[Computer Engineering Projects](https://github.com/Lucaskatalahali/computer-engineering-projects)** index repository.
+👉 Explore my **[Computer Engineering Projects](https://github.com/Lucaskatalahali/computer-engineering-projects)** portfolio.
 
 ---
 
