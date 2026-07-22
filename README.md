@@ -31,13 +31,12 @@ Aspiring Backend Software Engineer currently focused on **C#, ASP.NET Core, soft
 ## 📂 Featured Projects
 
 - 🚚 Supply and Logistics Management System
-- 🏙️ City Simulation in Java
-- 🏙️ City Simulation in C
+- 🏙️ City Simulation
 - 🎨 ASCII Shape Editor
-- ⚙️ Hexagonal Priority Queue Simulator
+- ⬢ Hexagonal Priority Queue Simulator
+- 🏢 Condominium Management System
 
 ---
-
 
 ## 🎓 Academic Portfolio
 
