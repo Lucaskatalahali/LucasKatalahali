@@ -38,8 +38,9 @@ Aspiring Backend Software Engineer currently focused on **C#, ASP.NET Core, soft
 
 ---
 
-## 🎓 Computer Engineering Academic Portfolio
 
-Explore my academic projects developed throughout my Computer Engineering degree, including reports, documentation, and source code.
+## 🎓 Academic Portfolio
 
-➡️ https://github.com/Lucaskatalahali/computer-engineering-projects
+Explore all my academic projects developed throughout my Computer Engineering degree, including documentation, code history, and course reports.
+
+👉 Visit my **[Computer Engineering Projects](https://github.com/Lucaskatalahali/computer-engineering-projects)** index repository.
