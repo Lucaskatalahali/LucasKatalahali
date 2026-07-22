@@ -31,7 +31,7 @@ Aspiring Backend Engineer currently focused on **C#, ASP.NET Core, software arch
 
 ## 📂 Featured Projects
 - 🚚 [Supply and Logistics Management System](https://github.com/Lucaskatalahali/Supply-And-Logistics-System)
-- 🏙️ [City Simulation](https://github.com/Lucaskatalahali/city-simulation-c)
+- 🏙️ [City Simulation in C](https://github.com/Lucaskatalahali/city-simulation-c)
 - 🎨 [ASCII Shape Editor](https://github.com/Lucaskatalahali/ascii-shape-editor)
 - ⬢ [Hexagonal Priority Queue Simulator](https://github.com/Lucaskatalahali/hexagonal-priority-queue-simulator)
 - 🏢 [Condominium Management System](https://github.com/Lucaskatalahali/condominium-management-system-desktop)
