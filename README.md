@@ -4,7 +4,7 @@ Third-year Computer Engineering student with a strong interest in backend develo
 
 Throughout my degree, I have developed academic projects using C#, ASP.NET Core, Java, C, C++, and PostgreSQL, with a focus on object-oriented design, data structures, and database systems.
 
-I am currently expanding my skills in ASP.NET Core, Entity Framework Core, software architecture, and database design as I work toward becoming a backend engineer.
+I am currently strengthening my skills in ASP.NET Core, Entity Framework Core, software architecture, cloud fundamentals, and database design, building a solid foundation in backend development and software engineering for scalable, reliable systems.
 
 ---
 
