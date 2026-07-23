@@ -1,12 +1,15 @@
 # 👋 Hi, I'm Lucas
 
-🎓 Third-year Computer Engineering student at Sakarya University.
+Third-year Computer Engineering student with a strong interest in backend development and software engineering.
 
-Aspiring Backend Engineer currently focused on **C#, ASP.NET Core, software architecture, and database design**.
+Throughout my degree, I have developed academic projects using C#, ASP.NET Core, Java, C, C++, and PostgreSQL, with a focus on object-oriented design, data structures, and database systems.
+
+I am currently expanding my skills in ASP.NET Core, Entity Framework Core, software architecture, and database design as I work toward becoming a backend engineer.
 
 ---
 
 ## 🛠 Core Stack
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -23,6 +26,7 @@ Aspiring Backend Engineer currently focused on **C#, ASP.NET Core, software arch
 ---
 
 ## 📚 Current Focus
+
 - Building backend applications with ASP.NET Core
 - Learning Entity Framework Core
 - Studying software architecture and design principles
@@ -30,6 +34,7 @@ Aspiring Backend Engineer currently focused on **C#, ASP.NET Core, software arch
 ---
 
 ## 📂 Featured Projects
+
 - 🚚 [Supply and Logistics Management System](https://github.com/Lucaskatalahali/Supply-And-Logistics-System)
 - 🏙️ [City Simulation in C](https://github.com/Lucaskatalahali/city-simulation-c)
 - 🎨 [ASCII Shape Editor](https://github.com/Lucaskatalahali/ascii-shape-editor)
@@ -40,7 +45,7 @@ Aspiring Backend Engineer currently focused on **C#, ASP.NET Core, software arch
 
 ## 🎓 Academic Portfolio
 
-This portfolio showcases the academic projects I've developed throughout my Computer Engineering degree at Sakarya University, including source code, documentation, and project reports.
+Explore the academic projects I've developed throughout my Computer Engineering degree, including source code, documentation, and project reports.
 
 👉 **Browse my [Computer Engineering Projects](https://github.com/Lucaskatalahali/computer-engineering-projects) portfolio.**
 
