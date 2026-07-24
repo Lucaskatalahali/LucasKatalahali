@@ -1,7 +1,7 @@
 # 👋Hi, I'm Lucas
 
 Second-year Computer Engineering student. Building a solid foundation in Back-end & Software Engineering today to architect high-impact systems tomorrow.
-- No one joins the army as a General; the backend isn't the summit. It's the path almost every summit shares.
+> No one joins the army as a General; the backend isn't the summit. It's the path almost every summit shares.
 
 Throughout my degree, I have developed academic projects using C#, ASP.NET Core, Java, C, C++, and PostgreSQL, with a focus on object-oriented design, data structures, and database systems.
 
