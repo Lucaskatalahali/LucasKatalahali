@@ -3,13 +3,13 @@
 Second-year Computer Engineering student. Building a solid foundation in Back-end & Software Engineering today to architect high-impact systems tomorrow.
 > No one joins the army as a General; the backend isn't the summit. It's the path almost every summit shares.
 
-Throughout my degree, I have developed academic projects using C#, ASP.NET Core, Java, C, C++, and PostgreSQL, with a focus on object-oriented design, data structures, and database systems.
+Throughout my degree, I have developed projects using C#, ASP.NET Core, Java, C, C++, and PostgreSQL, with a focus on object-oriented design, data structures, and database systems.
 
 ---
 
 ## 🎓 Academic Portfolio
 
-Explore the academic projects I've developed throughout my Computer Engineering degree, including source code, documentation, and project reports in my [Computer Engineering Projects](https://github.com/Lucaskatalahali/computer-engineering-projects) portfolio.
+Explore the projects I've developed throughout my Computer Engineering degree, including source code, documentation, and project reports in my [Computer Engineering Projects](https://github.com/Lucaskatalahali/computer-engineering-projects) portfolio.
 
 ---
 
