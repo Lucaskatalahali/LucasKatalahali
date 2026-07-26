@@ -2,13 +2,11 @@
 
 Second-year Computer Engineering student. Building a solid foundation in Back-end & Software Engineering today to architect high-impact systems tomorrow.
 
-Throughout my degree, I have developed projects using C#, ASP.NET Core, Java, C, C++, and PostgreSQL, with a focus on object-oriented design, data structures, and database systems.
-
 ---
 
 ## 🎓 Academic Portfolio
 
-Explore the projects I've developed throughout my Computer Engineering degree, including source code, documentation, and project reports in my [Computer Engineering Projects](https://github.com/Lucaskatalahali/computer-engineering-projects) portfolio.
+Throughout my degree, I have developed projects using C#, ASP.NET Core, Java, C, C++, and PostgreSQL. Explore the projects I've developed, including source code, documentation, and project reports in my [Computer Engineering Projects](https://github.com/Lucaskatalahali/computer-engineering-projects) portfolio.
 
 ---
 
