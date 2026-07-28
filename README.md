@@ -6,7 +6,7 @@ Second-year Computer Engineering student. Building a solid foundation in Back-en
 
 ## 🎓 Academic Portfolio
 
-Throughout my degree, I have developed projects using C#, ASP.NET Core, Java, C, C++, and PostgreSQL. Explore the projects I've developed, including source code, documentation, and project reports in my [Computer Engineering Projects](https://github.com/Lucaskatalahali/computer-engineering-projects) portfolio.
+Explore the projects I've developed Throughout my degree, including source code, documentation, and project reports in my [Computer Engineering Projects](https://github.com/Lucaskatalahali/computer-engineering-projects) portfolio.
 
 ---
 
@@ -27,8 +27,6 @@ I am currently strengthening my skills in:
 - Building backend applications with **ASP.NET Core**
 - Learning **Entity Framework Core**
 - Studying **software architecture**, **database design**, and software engineering principles
-
-My goal is to build a solid foundation for developing scalable and reliable backend systems.
 
 ---
 
