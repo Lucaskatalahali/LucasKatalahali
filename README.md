@@ -20,16 +20,6 @@ Java • C++ • C • HTML5 • CSS3
 
 ---
 
-## 📚 Current Focus
-
-I am currently strengthening my skills in:
-
-- Building backend applications with **ASP.NET Core**
-- Learning **Entity Framework Core**
-- Studying **software architecture**, **database design**, and software engineering principles
-
----
-
 ## 📂 Featured Projects
 
 Here are a few projects that best represent my learning journey:
