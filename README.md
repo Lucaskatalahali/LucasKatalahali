@@ -1,22 +1,18 @@
 # 👋Hi, I'm Lucas
 
-Second-year Computer Engineering student. Building a solid foundation in Back-end & Software Engineering today to architect high-impact systems tomorrow.
+Second-year Computer Engineering student, focused on building robust back-end systems with C# and .NET.
+
+---
+
+## 🛠 Tech Stack
+**Primary focus:** C# • .NET • ASP.NET Core • PostgreSQL • Git/GitHub
+**Also familiar with:** Java • C++ • C • HTML5 • CSS3
 
 ---
 
 ## 🎓 Academic Portfolio
 
-Explore the projects I've developed Throughout my degree, including source code, documentation, and project reports in my [Computer Engineering Projects](https://github.com/Lucaskatalahali/computer-engineering-projects) portfolio.
-
----
-
-## 🛠 Core Stack
-
-C# • .NET • ASP.NET Core • PostgreSQL
-
-### Other Technologies
-
-Java • C++ • C • HTML5 • CSS3
+Explore my [Computer Engineering Projects](https://github.com/Lucaskatalahali/computer-engineering-projects) portfolio, where I showcase the academic projects I've developed throughout my degree.
 
 ---
 
