@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lucas
 
-Second-year Computer Engineering student interested in back-end development, currently focusing on C# and .NET.
+Computer Engineering student interested in back-end development, currently focusing on C# and .NET.
 
 ---
 
