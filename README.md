@@ -18,4 +18,4 @@ Explore my [Computer Engineering Projects](https://github.com/Lucaskatalahali/co
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/lucas-katalahali/) • [Email](mailto:lucasick211@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/lucas-katalahali/)
