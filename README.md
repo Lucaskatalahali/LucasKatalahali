@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lucas
 
-Computer Engineering student interested in backend development and software engineering. I am currently expanding my skills in **C#, .NET, ASP.NET Core, Entity Framework Core, software architecture, and database design**.
+computer Engineering student focused on backend development and software engineering, building applications with **C#, .NET, ASP.NET Core, Entity Framework Core, and relational databases**.
 
 ---
 
