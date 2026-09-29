@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lucas
 
-Computer Engineering student focused on backend development and software engineering, building applications with **C#, .NET, ASP.NET Core, Entity Framework Core, and relational databases**.
+Computer Engineering student focused on backend development and Software Engineering, building applications with **C#, .NET, ASP.NET Core, Entity Framework Core, and relational databases**.
 
 ---
 
@@ -23,8 +23,10 @@ Computer Engineering student focused on backend development and software enginee
 
 ---
 
+
 ## 📌 Featured Projects
 
+- **[Scholarship Mentoring Platform API](https://github.com/Lucaskatalahali/ScholarshipPlatform.Api)** — Backend REST API built with .NET 10, ASP.NET Core Minimal APIs, EF Core, and PostgreSQL. Features a domain-driven structure handling scholarship mentorship programs, mentee fee payments, and public feedback.
 - **[Supply and Logistics Management System](https://github.com/Lucaskatalahali/Supply-And-Logistics-System)** — ASP.NET Core MVC app applying SOLID principles and 8 classic design patterns (State, Strategy, Adapter, Factory, Decorator, Composite, Observer, Singleton).
 
 ---
