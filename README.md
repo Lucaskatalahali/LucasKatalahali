@@ -2,6 +2,8 @@
 
 Computer Engineering student exploring Software Engineering, backend development, and emerging technologies.
 
+> Respeito àqueles que são tão extraordinários quanto o perfil diz que são. Misericórdia àqueles que, genuinamente, um dia entenderão que o próprio perfil denuncia um desespero construído sobre a inevitabilidade da incerteza de ser escolhido para uma vaga.
+
 ---
 
 ## 🛠 Tech Stack
@@ -26,11 +28,11 @@ Computer Engineering student exploring Software Engineering, backend development
 
 ## 📌 Featured Projects
 
-- **[Scholarship Mentoring Platform API](https://github.com/Lucaskatalahali/scholarship-mentorship-api)** — Backend REST API built with .NET 10, ASP.NET Core Minimal APIs, EF Core, and PostgreSQL. Features a domain-driven structure handling scholarship mentorship programs, mentee fee payments, and public feedback.
+- **[Scholarship Mentoring Platform API](https://github.com/Lucaskatalahali/scholarship-mentorship-api)** — Backend REST API built with .NET 10, ASP.NET Core Minimal APIs, EF Core, and PostgreSQL. Implements scholarship mentorship programs, mentee fee payments, and public feedback using a structured backend architecture.
 - **[Supply and Logistics Management System](https://github.com/Lucaskatalahali/Supply-And-Logistics-System)** — ASP.NET Core MVC app applying SOLID principles and 8 classic design patterns (State, Strategy, Adapter, Factory, Decorator, Composite, Observer, Singleton).
 
 ---
 
-## 📫 Contact
+## 📫 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/lucas-katalahali/)
