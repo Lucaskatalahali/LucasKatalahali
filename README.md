@@ -2,8 +2,6 @@
 
 Computer Engineering student exploring Software Engineering, backend development, and emerging technologies.
 
-> Respeito àqueles que são tão extraordinários quanto o perfil diz que são. Misericórdia àqueles que, genuinamente, um dia entenderão que o próprio perfil denuncia um desespero construído sobre a inevitabilidade da incerteza de ser escolhido para uma vaga.
-
 ---
 
 ## 🛠 Tech Stack
@@ -36,3 +34,7 @@ Computer Engineering student exploring Software Engineering, backend development
 ## 📫 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/lucas-katalahali/)
+
+---
+
+> Respeito àqueles que são tão extraordinários quanto o perfil diz que são. Misericórdia àqueles que, genuinamente, um dia entenderão que o próprio perfil denuncia um desespero construído sobre a inevitabilidade da incerteza de ser escolhido para uma vaga.
