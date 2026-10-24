@@ -1,40 +1,16 @@
-# 👋 Hi, I'm Lucas
+# Hi, I'm Lucas
 
-Computer Engineering student exploring Software Engineering, backend development, and emerging technologies.
+Computer Engineering student interested in software engineering and backend development.
 
----
+### Tech Stack & Tools
+`C#` ` .NET` `ASP.NET Core` `Entity Framework Core` `PostgreSQL` `Git` `GitHub`
 
-## 🛠 Tech Stack
+Also familiar with `Java`, `C++`, `C`, `HTML`, and `CSS`.
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### Featured Project
+**[Scholarship Mentoring Platform API](https://github.com/Lucaskatalahali/scholarship-mentorship-api)**
 
-**Also familiar with**
+REST API built with .NET 10, ASP.NET Core Minimal APIs, EF Core, and PostgreSQL.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-
----
-
-
-## 📌 Featured Projects
-
-- **[Scholarship Mentoring Platform API](https://github.com/Lucaskatalahali/scholarship-mentorship-api)** — Backend REST API built with .NET 10, ASP.NET Core Minimal APIs, EF Core, and PostgreSQL. Implements scholarship mentorship programs, mentee fee payments, and public feedback using a structured backend architecture.
-- **[Supply and Logistics Management System](https://github.com/Lucaskatalahali/Supply-And-Logistics-System)** — ASP.NET Core MVC app applying SOLID principles and 8 classic design patterns (State, Strategy, Adapter, Factory, Decorator, Composite, Observer, Singleton).
-
----
-
-## 📫 Connect With Me
-
+### Connect
 [LinkedIn](https://www.linkedin.com/in/lucas-katalahali/)
-
----
-
-> Respeito àqueles que são tão extraordinários quanto o perfil diz que são. Misericórdia àqueles que, genuinamente, um dia entenderão que o próprio perfil denuncia um desespero construído sobre a inevitabilidade da incerteza de ser escolhido para uma vaga.
